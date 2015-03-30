@@ -5,4 +5,15 @@ This includes the official Planet Beast Pitek 2.0 server, the provided server do
 
 
 ===================================================
-API Currently under development.
+
+
+ _    _ _____ ______ 
+| |  | |_   _|| ___ \
+| |  | | | |  | |_/ /
+| |/\| | | |  |  __/ 
+\  /\  /_| |__| |    
+ \/  \(_)___(_)_|    
+                     
+                     
+
+==================================================
