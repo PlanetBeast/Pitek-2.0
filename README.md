@@ -8,7 +8,7 @@ This includes the official Planet Beast Pitek 2.0 server, the provided server do
 <center>
 <h2>
   ======================================
-  Table of contents
+    Table of contents
   =======================================
 </h2>
 </center>
