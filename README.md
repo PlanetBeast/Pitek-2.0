@@ -7,5 +7,5 @@ This includes the official Planet Beast Pitek 2.0 server, the provided server do
 
 
 ===================================================
-    Mod List
+    <a href="https://github.com/PlanetBeast/Pitek-2.0/blob/master/Mod%20List">Mod List</a>
 
