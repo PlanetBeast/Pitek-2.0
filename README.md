@@ -6,11 +6,11 @@ This Repository is mainly for posting any issues that you encounter on any of th
 This includes the official Planet Beast Pitek 2.0 server, the provided server download, or the client download from Technic
 
 <center>
-<h1>
-  ===========================================
+<h2>
+  ======================================
   Table of contents
-  ============================================
-</h1>
+  =======================================
+</h2>
 </center>
 
 
